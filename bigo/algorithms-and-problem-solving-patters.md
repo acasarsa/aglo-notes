@@ -149,3 +149,17 @@ function charCount(str){
   * write a simplified solution without it
   * incorporate that difficulty back in
 
+{% embed url="https://repl.it/@AndrewCasarsa/charCount\#index.js" %}
+
+**Step 5: Look Back / Refactor**
+
+* Can you check the result?
+* Can you derive the result differently?
+* Can you understand it at a glance?
+* Can you use the result or method for some other problem?
+* Can you improve the performance of your solution?
+* Can you think of other ways to refactor? 
+* How have other people solved this problem? 
+* After you write your code 
+  * ask interviewer what other approaches are there, what did i miss? How have you seen other people solve this? 
+
