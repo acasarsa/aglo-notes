@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Arrays](README.md)
+* [Readme](README.md)
+* [Arrays](arrays.md)
 * [Stacks and Queues](stacks-and-queues.md)
 * [Heaps](heaps.md)
 * [BigO](bigo/README.md)
