@@ -4,7 +4,7 @@ description: >-
   memory)
 ---
 
-# BigO
+# Big-O
 
 ### summary:
 
