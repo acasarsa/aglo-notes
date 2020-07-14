@@ -4,7 +4,7 @@
 * [BigO](bigo/README.md)
   * [Arrays and Objects](bigo/arrays-and-objects-through-lens-of-big-o.md)
   * [Algorithms and Problem Solving Patters](bigo/algorithms-and-problem-solving-patters.md)
-  * [Problem Solving Patters](bigo/problem-solving-patters.md)
+  * [Problem Solving Patterns](bigo/problem-solving-patterns.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
