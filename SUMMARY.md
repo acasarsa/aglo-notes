@@ -2,9 +2,9 @@
 
 * [Readme](README.md)
 * [BigO](bigo/README.md)
-  * [Arrays and Objects](bigo/arrays-and-objects-through-lens-of-big-o.md)
-  * [Algorithms and Problem Solving Patters](bigo/algorithms-and-problem-solving-patters.md)
-  * [Problem Solving Patterns](bigo/problem-solving-patterns.md)
+  * [00-Arrays and Objects](bigo/00-arrays-and-objects-through-lens-of-big-o.md)
+  * [01-Algorithms and Problem Solving Patters](bigo/01-algorithms-and-problem-solving-patters.md)
+  * [02-Problem Solving Patterns](bigo/02-problem-solving-patterns.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures

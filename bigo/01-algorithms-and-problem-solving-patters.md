@@ -1,4 +1,4 @@
-# Algorithms and Problem Solving Patters
+# 01-Algorithms and Problem Solving Patters
 
 ### Objectives
 
