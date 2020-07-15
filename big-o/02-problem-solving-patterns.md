@@ -49,9 +49,9 @@ function same(arr1, arr2) {
 
 TC =&gt; O\(n\) - much faster 
 
-{% embed url="https://repl.it/@AndrewCasarsa/Problem-Solving-Patters\#index.js" %}
+{% embed url="https://repl.it/@AndrewCasarsa/Problem-Solving-Patterns" %}
 
-test test
+
 
 
 
