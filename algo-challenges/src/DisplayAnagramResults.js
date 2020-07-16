@@ -19,15 +19,16 @@ export const DisplayAnagramResults = ({ isAnagram }) => {
 
     }
     
-    return !isAnagram ? (
+    return isAnagram ? (
         <>
-            {isFalse()}
-            {console.log('false', isAnagram)}
+            
+            {isTrue()}
+            {console.log('true', isAnagram)}
         </>
         ) : (
         <>
-            {isTrue()}
-            {console.log('true', isAnagram)}
+            {isFalse()}
+            {console.log('false', isAnagram)}
         </>
         )
 }
