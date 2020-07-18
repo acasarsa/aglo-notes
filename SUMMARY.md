@@ -6,8 +6,9 @@
   * [01-Algorithms and Problem Solving Patters](big-o/01-algorithms-and-problem-solving-patters.md)
   * [02-Problem Solving Patterns](big-o/02-problem-solving-patterns.md)
 * [01-Challenges](challenges/README.md)
-  * [Anagram](challenges/anagram.md)
-  * [Anagram alternative solution](challenges/anagram-alternative-solution.md)
+  * [Frequency Counter](challenges/frequency-counter/README.md)
+    * [Anagram alternative solution](challenges/frequency-counter/anagram-alternative-solution.md)
+    * [Anagram](challenges/frequency-counter/anagram.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures

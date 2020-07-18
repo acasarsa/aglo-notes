@@ -2,7 +2,7 @@
 
 
 
-![](../.gitbook/assets/screenshot-2020-07-15-14.59.14%20%282%29.png)
+![](../../.gitbook/assets/screenshot-2020-07-15-14.59.14%20%282%29.png)
 
 ```javascript
 function validAnagram(str1, str2) {
