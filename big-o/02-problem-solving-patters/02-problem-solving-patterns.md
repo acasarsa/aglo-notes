@@ -1,4 +1,4 @@
-# 02-Problem Solving Patterns
+# 00-Frequency-Counters
 
 ### Frequency Counters
 
