@@ -7,6 +7,7 @@
   * [02-Problem Solving Patterns](big-o/02-problem-solving-patterns.md)
 * [01-Challenges](challenges/README.md)
   * [Anagram](challenges/anagram.md)
+  * [Anagram alternative solution](challenges/anagram-alternative-solution.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
