@@ -8,10 +8,10 @@
     * [00-Frequency-Counters](big-o/02-problem-solving-patters/02-problem-solving-patterns.md)
     * [01-Multiple Pointers](big-o/02-problem-solving-patters/multiple-pointers.md)
 * [01-Challenges](challenges/README.md)
-  * [Multiple Pointers](challenges/multiple-pointers.md)
-  * [Frequency Counter](challenges/frequency-counter/README.md)
+  * [00-Frequency Counter](challenges/frequency-counter/README.md)
     * [Anagram alternative solution](challenges/frequency-counter/anagram-alternative-solution.md)
     * [Anagram](challenges/frequency-counter/anagram.md)
+  * [01-Multiple Pointers](challenges/multiple-pointers.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
