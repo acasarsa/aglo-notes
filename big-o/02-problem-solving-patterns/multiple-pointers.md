@@ -56,5 +56,9 @@ sumZero(arr)
 
 ## Pointers On Same Side
 
+### Example:
+
+* implement function called **coundUniqueValues**, which accepts a _sorted array,_ and counts the unique values in the array. There can be negative numbers in the array, but it will always be sorted. 
+
 
 
