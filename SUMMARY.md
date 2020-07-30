@@ -7,11 +7,14 @@
   * [02-Problem-Solving-Patterns](big-o/02-problem-solving-patterns/README.md)
     * [00-Frequency-Counters](big-o/02-problem-solving-patterns/02-problem-solving-patterns.md)
     * [01-Multiple Pointers](big-o/02-problem-solving-patterns/multiple-pointers.md)
+    * [02-Sliding-Wind](big-o/02-problem-solving-patterns/02-sliding-wind.md)
 * [01-Challenges](challenges/README.md)
   * [00-Frequency Counter](challenges/frequency-counter/README.md)
     * [Anagram alternative solution](challenges/frequency-counter/anagram-alternative-solution.md)
     * [Anagram](challenges/frequency-counter/anagram.md)
-  * [01-Multiple Pointers](challenges/multiple-pointers.md)
+  * [01-Multiple Pointers](challenges/multiple-pointers/README.md)
+    * [00-Points-On-Each-End](challenges/multiple-pointers/00-points-on-each-end.md)
+    * [01-Points-On-Same-Side](challenges/multiple-pointers/01-points-on-same-side.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
