@@ -10,5 +10,9 @@ description: useful when data set is an array or string
 
 ### Example: 
 
+* write a function called maxSubarraySum which accepts an array of integers and a number called n. The function should calculate the max sum of n consecutive elements in the array. 
+  * $$maxSubarraySum([4, 2, 1, 6], 1)  $$ // 6 
+  * $$maxSubarraySum([4, 2, 1, 6], 2)   $$ // 1+ 6 = 7 
+
 
 
