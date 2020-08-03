@@ -1,8 +1,8 @@
-# 02-Problem Solving Patterns
+# 00-Frequency-Counters
 
 ### Frequency Counters
 
-* This pattern uses objects or sets to collect values/frequences of values
+* This pattern uses objects or sets to collect values/frequencies of values
 * This can often avoid the need for nested loops or O\(N^2\) operations with arrays / strings
   * useful when you have multiple inputs and you need to compare them and see if they consist of 
   * useful when comparing 2+ inputs or frequency of certain things occurring
@@ -49,7 +49,9 @@ function same(arr1, arr2) {
 
 TC =&gt; O\(n\) - much faster 
 
-{% embed url="https://repl.it/@AndrewCasarsa/Problem-Solving-Patters\#index.js" %}
+{% embed url="https://repl.it/@AndrewCasarsa/Problem-Solving-Patterns" %}
+
+
 
 
 
