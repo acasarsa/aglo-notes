@@ -3,7 +3,7 @@
 * [Readme](README.md)
 * [00-Big-O](big-o/README.md)
   * [00-Arrays and Objects](big-o/00-arrays-and-objects-through-lens-of-big-o.md)
-  * [01-Algorithms and Problem Solving Patters](big-o/01-algorithms-and-problem-solving-patters.md)
+  * [01-Algorithms and Problem Solving Patterns](big-o/01-algorithms-and-problem-solving-patterns.md)
   * [02-Problem-Solving-Patterns](big-o/02-problem-solving-patterns/README.md)
     * [00-Frequency-Counters](big-o/02-problem-solving-patterns/02-frequency-counters.md)
     * [01-Multiple Pointers](big-o/02-problem-solving-patterns/multiple-pointers.md)
