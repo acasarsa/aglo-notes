@@ -8,6 +8,7 @@
     * [00-Frequency-Counters](big-o/02-problem-solving-patterns/00-frequency-counters.md)
     * [01-Multiple Pointers](big-o/02-problem-solving-patterns/01-multiple-pointers.md)
     * [02-Sliding-Wind](big-o/02-problem-solving-patterns/02-sliding-wind.md)
+    * [03-Divide-and-Concquer](big-o/02-problem-solving-patterns/03-divide-and-concquer.md)
 * [01-Challenges](challenges/README.md)
   * [00-Frequency Counter](challenges/frequency-counter/README.md)
     * [Anagram alternative solution](challenges/frequency-counter/anagram-alternative-solution.md)
