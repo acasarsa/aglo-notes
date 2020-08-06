@@ -2,7 +2,7 @@
 description: useful when data set is an array or string
 ---
 
-# 02-Sliding-Wind
+# 02-Sliding-Window-Pattern
 
 * This patter involves creating a window which can either be an array or number from one position to another
 * depending on a certain condition, the window either increases or closes \(and a new window is created\)
