@@ -33,6 +33,8 @@ the call stack \(the behind the scenes order that says when to call which functi
 
 ### Examples:
 
+countDown 
+
 ```javascript
 function countDown(num){
   if(num <= 0){
@@ -66,7 +68,26 @@ countDown(3)
 
 {% embed url="https://repl.it/@AndrewCasarsa/countDown" %}
 
+sumRange
 
+```javascript
+function sumRange(num){
+  if(num === 1) return 1
+  return num + sumRange(num-1)
+}
+
+sumRange(8)
+// ...
+// 5 + sumRange(4)
+// 4 + sumRange(3)
+// 3 + sumRange(2)
+// 1 + sumRange(0)
+// 4+3+2+1
+// this does a sum of num through 1 
+
+```
+
+{% embed url="https://repl.it/@AndrewCasarsa/sumRange" %}
 
 
 
