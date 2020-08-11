@@ -31,6 +31,41 @@ the call stack \(the behind the scenes order that says when to call which functi
 * any time a function is invoked it is placed \( pushed\) on the top of the call stack 
 * when js sees the return keyword or when the function ends, the compiler will remove \(pop\)
 
+### Examples:
+
+```javascript
+function countDown(num){
+  if(num <= 0){
+    console.log("All done!")
+    return
+  }
+  console.log(num)
+  num--
+  countDown(num)
+}
+countDown(3)
+
+// print 3
+// call countDown(2)
+// print 2 
+// call countDown(1)
+// print 1
+// call countDown(0) -- base case
+// return !! (need this or it won't end)
+// print "All done!"
+
+// can do this through iteration too
+// function countDownV2(num){
+//   for(var i = num; i > 0; i--){
+//     console.log(i)
+//   }
+//   console.log("All done!")
+// }
+// countDownV2(4)
+```
+
+{% embed url="https://repl.it/@AndrewCasarsa/countDown" %}
+
 
 
 
