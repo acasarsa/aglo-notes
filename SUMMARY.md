@@ -18,6 +18,7 @@
     * [01-Points-On-Same-Side](challenges/multiple-pointers/01-points-on-same-side.md)
 * [02-Recursion](02-recursion/README.md)
   * [00-intro](02-recursion/00-intro.md)
+  * [01-factorial-recursion](02-recursion/01-factorial-recursion.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
