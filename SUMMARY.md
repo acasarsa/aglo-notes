@@ -21,6 +21,7 @@
   * [01-factorial-recursion](02-recursion/01-factorial-recursion.md)
   * [02-helper-method-recursion-vs-pure-recursion](02-recursion/02-helper-method-recursion-vs-pure-recursion.md)
   * [03-Challenges](02-recursion/03-challenges/README.md)
+    * [factorial](02-recursion/03-challenges/factorial.md)
     * [power](02-recursion/03-challenges/power.md)
 * [Notes](notes.md)
 
