@@ -20,6 +20,8 @@
   * [00-intro](02-recursion/00-intro.md)
   * [01-factorial-recursion](02-recursion/01-factorial-recursion.md)
   * [02-helper-method-recursion-vs-pure-recursion](02-recursion/02-helper-method-recursion-vs-pure-recursion.md)
+  * [03-Challenges](02-recursion/03-challenges/README.md)
+    * [power](02-recursion/03-challenges/power.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
