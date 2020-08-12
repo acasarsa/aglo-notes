@@ -19,6 +19,7 @@
 * [02-Recursion](02-recursion/README.md)
   * [00-intro](02-recursion/00-intro.md)
   * [01-factorial-recursion](02-recursion/01-factorial-recursion.md)
+  * [02-helper-method-recursion](02-recursion/02-helper-method-recursion.md)
 * [Notes](notes.md)
 
 ## Notes from Algo lectures
