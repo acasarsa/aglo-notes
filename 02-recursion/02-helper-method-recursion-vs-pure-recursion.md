@@ -1,4 +1,4 @@
-# 02-helper-method-recursion
+# 02-helper-method-recursion-vs-pure-recursion
 
 ### examples:
 
@@ -42,5 +42,40 @@ collectOddValues([1,2,3,17])
 
 {% embed url="https://repl.it/@AndrewCasarsa/helper-method" %}
 
+pure recursion: 
 
+```javascript
+function collectOddValues(arr){
+  let newArr = []
+
+  if(arr.length === 0){
+    return newArr;
+  }
+
+  if(arr[0] % 2 !== 0){
+    newArr.push(arr[0]);
+  }
+
+  newArr = newArr.concat( collectOddValues( arr.slice(1))) ;
+  return newArr;
+}
+
+collectOddValues([1,2,3])
+
+// this one will make several levels of concats on newArr
+// once array is empty all the concats 
+// will run and they will combine 
+// into the desired newArr
+
+// first time through:
+// newArr = [1]
+// [1].concat( collectOddValues( [2,3]))
+// [].concat( collectOddValues( [3]))
+// [3].concat( collectOddValues([]))
+// [3]
+// [3]
+// [1, 3]
+```
+
+[https://repl.it/@AndrewCasarsa/pure-recursion](https://repl.it/@AndrewCasarsa/pure-recursion)
 
