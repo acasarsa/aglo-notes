@@ -81,5 +81,11 @@ collectOddValues([1,2,3])
 // [1, 3]
 ```
 
-[https://repl.it/@AndrewCasarsa/pure-recursion](https://repl.it/@AndrewCasarsa/pure-recursion)
+{% embed url="https://repl.it/@AndrewCasarsa/pure-recursion" %}
+
+### Pure Recursion Tips:
+
+* for arrays, use methods like slice, the spread operator, and concat that make copies of arrays so you do not mutate them. 
+* remember that strings are immutable so you will need to use methods like slice, substr, or substring to make copies of strings
+* to make copies of objects use Object.assign, or the spread operator
 
