@@ -2,6 +2,8 @@
 
 ### examples:
 
+**helper method recursion:** 
+
 ```javascript
 // collect all the odd values in an array
 
@@ -42,7 +44,9 @@ collectOddValues([1,2,3,17])
 
 {% embed url="https://repl.it/@AndrewCasarsa/helper-method" %}
 
-pure recursion: 
+## 
+
+**pure recursion:** 
 
 ```javascript
 function collectOddValues(arr){
