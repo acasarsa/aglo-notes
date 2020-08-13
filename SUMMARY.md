@@ -23,6 +23,7 @@
   * [03-Challenges](02-recursion/03-challenges/README.md)
     * [fib](02-recursion/03-challenges/fib.md)
     * [factorial](02-recursion/03-challenges/factorial.md)
+    * [recursiveRange](02-recursion/03-challenges/recursiverange.md)
     * [power](02-recursion/03-challenges/power.md)
 * [Notes](notes.md)
 
