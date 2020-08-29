@@ -69,11 +69,10 @@ const Anagram = () => {
         return setAnagram(true)
         
     }
-    
+
     // useEffect(() => {
     //     validAnagram()
     // }, [])
-    
 
     
     // console.log(isAnagram)
