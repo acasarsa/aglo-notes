@@ -26,6 +26,7 @@
     * [recursiveRange](02-recursion/03-challenges/recursiverange.md)
     * [power](02-recursion/03-challenges/power.md)
 * [02-Searching-Algorithms](02-searching-algorithms/README.md)
+  * [01-Binary-Search](02-searching-algorithms/01-binary-search.md)
   * [00-Intro](02-searching-algorithms/00-intro.md)
 * [Notes](notes.md)
 
