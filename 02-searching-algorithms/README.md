@@ -1,2 +1,2 @@
-# 02-Searching-Algorithms
+# 03-Searching-Algorithms
 
