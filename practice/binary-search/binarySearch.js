@@ -3,9 +3,10 @@ function binarySearch(arr, n) {
   let start = 0
   let end = arr.length-1
   let mid = Math.floor((end + start) / 2)
+  // set up a middle wtih a Math.floor to round down
   
   while(arr[mid] !== n && start <= end){
-    
+    // stay in loop while mid value is !== n && the start is <= end point. (this ends loop if n is not in array)
     if(n < arr[mid]){
       end = mid - 1
     } else {
