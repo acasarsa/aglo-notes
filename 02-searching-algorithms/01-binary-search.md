@@ -18,13 +18,19 @@ then find middle of that segement. ask same question. repeat until you get the o
 * function accepts a sorted array and a value
 * create a left pointer at the start of the array and a right pointer at end of array. 
   * make 2 variables one to point to index that we start at \(0\) and a right-side vairable that is at the end of the array. arr.length-1
-* while left pointer is &lt; right pointer loop
+* while middle !== n loop
   * check if avg between R and L is greater than or less than num. 
   * return if index 
   * if value is too small move the left pointer up 
   * if value is too big move the right pointer down. 
 * if you never find value, return -1
 * reassign left and right then pick new middle
+
+### Big O of binary search
+
+O\(log n\) - average case 
+
+* this is great it's bascially constant O\(1\)
 
 
 
