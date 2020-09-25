@@ -19,8 +19,3 @@ function isHappy(n) {
 }
 
 console.log(isHappy(19))
-console.log(19 % 10)
-    // 2
-// 2/5 
-    // 4
-    // 1
