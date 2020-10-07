@@ -6,17 +6,18 @@
 
 function countingValleys (stepCount, directionString){
   // const min = 2 
-  // const max = 1000000
-  let valleys = 0
-  let level = 0
+  // const max = 1000000 
+  let valleys = 0 
+  let level = 0 
+  
+  
+    for(let i = 0; i < stepCount; i++) {
+      let step = directionString[i]
+      level += (step === 'U') ? 1 : -1
+      valleys += (level === 0 && step === 'U') ? 1 : 0 
+    } 
+    
 
-  for(let i = 0; i < directionString.length; i++) {
-    let step = directionString[i]
-    level += (step === 'U') ? 1 : -1
-    console.log(level)
-    valleys += (level === 0 && step === 'U') ? 1 : 0 
-
-  }
 
   // valley++ when level == -1
   return `total valleys: ${valleys}`
@@ -35,4 +36,4 @@ function countingValleys (stepCount, directionString){
 
 }
 
-console.log(countingValleys(8, 'DDUUDDUUDDUUDDUU'))
+console.log(countingValleys(4, 'DDUU'))
