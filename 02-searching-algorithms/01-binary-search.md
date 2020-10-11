@@ -7,7 +7,7 @@ works by finding center of array and then center of that segment etc
 
 pick half-way point. is item to find bigger or smaller than the one at half way point? 
 
-then find middle of that segement. ask same question. repeat until you get the one you are looking for. 
+then find middle of that segment. ask same question. repeat until you get the one you are looking for. 
 
 * divide and conquer 
 
