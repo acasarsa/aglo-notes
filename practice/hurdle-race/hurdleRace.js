@@ -3,6 +3,7 @@
 // h = [ of hurdle heights ]
 // each magic potion allows player to jump + 1 more unit of height (k + 1)
 // return min number of doses required to jump all hurdles 
+
 function hurdleRace(k, h){
   // is k >= h[n] ? 0 : dose += h[n] - k
   let dose = k
