@@ -9,11 +9,10 @@ function isHappy(n) {
   seen[n] = true;
 
   while (true) {
-      n = Array.from(n.toString()).map(digit => digit ** 2 ).reduce((a,b) => a + b)
-
-      if (n === 1) return true;
-      else if (seen[n]) return false;
-      else seen[n] = true;
+    n = Array.from(n.toString()).map(digit => digit ** 2 ).reduce((a,b) => a + b)
+    if (n === 1) return true;
+    else if (seen[n]) return false;
+    else seen[n] = true;
   }
 
 }
