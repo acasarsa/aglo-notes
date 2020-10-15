@@ -19,7 +19,7 @@ It's like a building with no elevator. where an array has an elevator. You can g
 
 | **Lists** | Arrays |
 | :--- | :--- |
-| does not have indicies  | indexed in order |
+| does not have indices  | indexed in order |
 | connected via nodes with a next pointer | insertion and deletion can be expensive |
 | random access is not allowed | can quickly be access at a specific index |
 
