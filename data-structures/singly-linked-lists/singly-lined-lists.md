@@ -13,5 +13,15 @@ will create a class for sinlgy linked list and write some methods for it
 
 #### There is no index value to use, you have to work your way through the list to find things. But can be faster to iterate through than arrays
 
-It's like a building with no elevator. where an array has an elevator. You can go to any specific floor if you know exactly where you want to go. In LL you must take the stairs and go next next etc 
+It's like a building with no elevator. where an array has an elevator. You can go to any specific floor if you know exactly where you want to go. In LL you must take the stairs and go next next etc. 
+
+**!!can add to beginning of array without reindex all other elements which is a huge time saver!!** 
+
+| **Lists** | Arrays |
+| :--- | :--- |
+| does not have indicies  | indexed in order |
+| connected via nodes with a next pointer | insertion and deletion can be expensive |
+| random access is not allowed | can quickly be access at a specific index |
+
+
 
