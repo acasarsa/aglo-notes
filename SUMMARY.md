@@ -40,5 +40,6 @@
 ## Data-Structures
 
 * [data-structures](data-structures/singly-linked-lists/README.md)
+  * [Doubly-linked-lists](data-structures/singly-linked-lists/doubly-linked-lists.md)
   * [Singly-linked-lists](data-structures/singly-linked-lists/singly-lined-lists.md)
 
