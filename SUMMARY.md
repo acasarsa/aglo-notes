@@ -39,5 +39,5 @@
 
 ## Data-Structures
 
-* [Singly-lined-lists](data-structures/singly-lined-lists.md)
+* [Singly-linked-lists](data-structures/singly-lined-lists.md)
 

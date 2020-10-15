@@ -1,2 +1,2 @@
-# Singly-lined-lists
+# Singly-linked-lists
 
