@@ -37,3 +37,7 @@
   * [Stacks and Queues](notes-from-algo-lectures/notes/stacks-and-queues.md)
   * [Arrays](notes-from-algo-lectures/notes/arrays.md)
 
+## Data-Structures
+
+* [Singly-lined-lists](data-structures/singly-lined-lists.md)
+
