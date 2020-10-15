@@ -1,2 +1,2 @@
-# Singly-Linked-Lists
+# data-structures
 
