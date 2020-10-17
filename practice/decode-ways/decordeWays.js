@@ -6,6 +6,9 @@ function decodeWays(s){
   if (alpha.test(s)) return 'error s may only contain numerical digits'
   console.log(cypher())
   // go through string and see if each char 
+  for(let i = 0; i < s.length; i++){
+    
+  }
   
 
   return 'ok'
