@@ -8,6 +8,7 @@ function decodeWays(s){
   // go through string and see if each char 
   // let numberArr = s.split('')
   // let length = numberArr.length
+  // start at end of string // can slice for 1 digit or for 2 digits // use two pointers 
   for(let i = 0; i < s.length; i++){
     
   }
