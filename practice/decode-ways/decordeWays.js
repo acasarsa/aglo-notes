@@ -6,6 +6,8 @@ function decodeWays(s){
   if (alpha.test(s)) return 'error s may only contain numerical digits'
   console.log(cypher())
   // go through string and see if each char 
+  // let numberArr = s.split('')
+  // let length = numberArr.length
   for(let i = 0; i < s.length; i++){
     
   }
@@ -42,4 +44,5 @@ const countLetterSeen = (numberStr) => {
 // let values = Object.values(object)
 // console.log(values)
 // console.log(countLetterSeen('12'))
+console.log('11234'.split(''))
 console.log(decodeWays('3'))
